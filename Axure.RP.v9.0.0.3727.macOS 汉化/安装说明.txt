@@ -1,0 +1,4 @@
+
+1. 双击安装AxureRP-Setup.dmg ，安装成功启动AxureRP，并注册
+2. 查看license_key.txt文件中的license和key 进行设置
+3. 汉化，查看【Axure RP 9通用汉化包 兼容所有版本】文件夹内说明
